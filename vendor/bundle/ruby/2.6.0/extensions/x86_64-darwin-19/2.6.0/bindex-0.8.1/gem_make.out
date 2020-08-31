@@ -1,0 +1,15 @@
+current directory: /Users/kick/Desktop/June/proj-24/hello_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/kick/.rbenv/versions/2.6.6/bin/ruby -I /Users/kick/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200829-21840-9q0xcy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kick/Desktop/June/proj-24/hello_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/kick/Desktop/June/proj-24/hello_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/kick/Desktop/June/proj-24/hello_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200829-21840-1p41wj4/skiptrace/internal
